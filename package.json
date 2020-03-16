@@ -12,8 +12,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/gabahulk/com.open-vault.service-locator.git",
-    "revision": ""
+    "url": "https://github.com/gabahulk/com.open-vault.service-locator.git"
   },
   "author": {
     "name": "Gabriel Fazzio de Paula",
